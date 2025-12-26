@@ -1,0 +1,7 @@
+name = "ghcdn"
+type = "javascript"
+main = "worker.js"
+
+kv_namespaces = [
+  { binding = "GHCDN_KV", id = "YOUR_KV_NAMESPACE_ID" }
+]
