@@ -3,5 +3,5 @@ type = "javascript"
 main = "worker.js"
 
 kv_namespaces = [
-  { binding = "GHCDN_KV", id = "YOUR_KV_NAMESPACE_ID" }
+  { binding = "GHCDN_KV", id = "2e5a8cd8471f410a9e682acd1860a250" }
 ]
